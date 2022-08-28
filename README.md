@@ -1,5 +1,10 @@
-# Stereo Camera Calibration
-Based on [Stereo Vision Camera Calibration ](https://www.youtube.com/watch?v=yKypaVl6qQo) youtube tutorial and [Intrinsic and Extrinsic Matrices | Camera Calibration](https://www.youtube.com/watch?v=2XM2Rb2pfyQ&list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo&index=5) lecture.
+# Stereo Camera
+
+- depth estimation
+Based on [Stereo Vision and Depth Estimation](https://www.youtube.com/watch?v=KOSS24P3_fY) youtube tutorial.
+
+- calibration
+Based on [Stereo Vision Camera Calibration ](https://www.youtube.com/watch?v=yKypaVl6qQo) youtube tutorial and [Intrinsic and Extrinsic Matrices | Camera Calibration](https://www.youtube.com/watch?v=2XM2Rb2pfyQ&list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo&index=5) youtube lecture.
 
 ## Setup
 
